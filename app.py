@@ -1,7 +1,4 @@
-"""
-E-Commerce Order Processing Application
-Main entry point
-"""
+
 import logging
 from order_service import OrderService
 from payment_gateway import PaymentGateway
